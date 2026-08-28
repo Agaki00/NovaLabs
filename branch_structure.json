@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "frioh",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "frioh": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "frioh",
+    "origin"
+  ]
+}
